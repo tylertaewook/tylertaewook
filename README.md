@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**tylertaewook/tylertaewook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 My name is Tyler, an incoming student at Columbia University, School of Engineering and Applied Science (Class of 2026).
 
