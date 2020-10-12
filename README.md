@@ -10,4 +10,4 @@ I'm currently in national service conscript, and I'm learning and exploring new 
 
 * 📫 How to reach me: taewook.kim@columbia.edu
 * 💬 Ask me about: python automation, fractal arts, and self-driving cars
-* 💻 Website: [taewook.kim](taewook.kim)
+* 💻 Website: taewook.kim
