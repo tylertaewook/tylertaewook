@@ -14,9 +14,6 @@ I'm currently in Korea's national service conscription. Meanwhile, I plan to lea
 💻 Website: https://taewookdotkim.wordpress.com  
   
 
-👽 Kaggle: https://www.kaggle.com/tylertaewook  
-  
-
 <br/>  
 
 
