@@ -8,7 +8,7 @@ My background is in Arduino, robotics, and machine learning.
 I'm currently in Korea's national service conscription. Meanwhile, I plan to learn and explore new things in my free time until I return to Columbia in 2022 Fall.  
   
 
-📫 How to reach me: taewook.kim@columbia.edu  
+📫 How to reach me: taewook.kim@columbia.edu
   
 
 💻 Website: https://taewookdotkim.wordpress.com  
@@ -36,7 +36,7 @@ I'm currently in Korea's national service conscription. Meanwhile, I plan to lea
 <a href="https://github.com/tylertaewook" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/tyler-taewook-kim" target="_blank">
+<a href="https://linkedin.com/in/tylertaewook" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/tylertaewook" target="_blank">
