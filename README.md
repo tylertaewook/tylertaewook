@@ -11,7 +11,7 @@ I'm currently in Korea's national service conscription. Meanwhile, I plan to lea
 📫 How to reach me: taewook.kim@columbia.edu
   
 
-💻 Website: https://taewookdotkim.wordpress.com  
+💻 Website: https://tylertaewook.github.io
   
 
 <br/>  
