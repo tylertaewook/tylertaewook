@@ -12,6 +12,9 @@ I'm currently in Korea's national service conscription. Meanwhile, I plan to lea
   
 
 💻 Website: https://tylertaewook.github.io
+
+
+✍️ Blog: https://tylertaewook.github.io/blog/
   
 
 <br/>  
