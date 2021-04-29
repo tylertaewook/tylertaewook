@@ -3,10 +3,11 @@
 
 My name is Tyler, an incoming student at Columbia University, School of Engineering and Applied Science (Class of 2026).
 
-My background is in Arduino, robotics, and machine learning.
+My background is in Arduino robotics, data analysis, and reinforcement learning.
 
-I'm currently in Korea's national service conscription. Meanwhile, I plan to learn and explore new things in my free time until I return to Columbia in 2022 Fall.  
+I'm serving in Korea's mandatory military service. Meanwhile, I plan to learn and explore new things in my free time until I return to Columbia in 2022 Fall.  
   
+Outside tech, I love to skateboard around the city, cook with my family and read new books in new places every week.
 
 📫 How to reach me: tk2891 [at] columbia [dot] edu
   
