@@ -9,7 +9,7 @@ Outside tech, I love to skateboard around the city, cook with my family and read
 I will be serving Korea's mandatory military service until August 2022. Meanwhile, I plan to learn and explore new things in my free time until I return to Columbia.
 
 
-📫 How to reach me: tk2891 [at] columbia [dot] edu
+📫 How to reach me: tk2891@columbia.edu
 
 💻 Website: https://tylertaewook.github.io
 
