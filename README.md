@@ -13,7 +13,7 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 
 💻 Website: https://tylertaewook.github.io
 
-✍️ Blog: tylertaewook.github.io/blog/ | towardsdatascience.com/@tylertaewook
+✍️ Blog: [tylertaewook.github.io/blog/](tylertaewook.github.io/blog/) | [towardsdatascience.com/@tylertaewook](towardsdatascience.com/@tylertaewook)
 
 
 
