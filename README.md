@@ -15,10 +15,22 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 
 ✍️ Blog: [tylertaewook.github.io/blog/](https://tylertaewook.github.io/blog/) | [towardsdatascience.com/@tylertaewook](https://towardsdatascience.com/@tylertaewook)
 
+<br/>  
 
+
+## 📕 Recent Blog Posts
+📫 How to reach me: tk2891@columbia.edu
+
+💻 Website: https://tylertaewook.github.io
+
+✍️ Blog: [tylertaewook.github.io/blog/](https://tylertaewook.github.io/blog/) | [towardsdatascience.com/@tylertaewook](https://towardsdatascience.com/@tylertaewook)
+
+
+</div>  
 
 <br/>  
 
+<br/>  
 
 ## My Skill Set  
 <div align="center">  
