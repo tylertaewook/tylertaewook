@@ -19,11 +19,11 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 
 
 ## 📕 Recent Blog Posts
-📫 How to reach me: tk2891@columbia.edu
+- [Understanding Proximal Policy Optimization (Schulman et al., 2017)](https://tylertaewook.github.io/blog/papers/2021/04/30/PPO.html)
 
-💻 Website: https://tylertaewook.github.io
+- [RLpapers: List of Reinforcement Learning papers and codes](https://tylertaewook.github.io/blog/papers/2021/04/17/RLPapers.html)
 
-✍️ Blog: [tylertaewook.github.io/blog/](https://tylertaewook.github.io/blog/) | [towardsdatascience.com/@tylertaewook](https://towardsdatascience.com/@tylertaewook)
+- [Orbitron: Reinventing the (spherical) wheels and its control algorithm](https://tylertaewook.github.io/blog/project-showcase/2021/04/02/Orbitron.html)
 
 
 </div>  
