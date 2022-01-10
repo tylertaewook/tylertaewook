@@ -32,7 +32,7 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 
 <br/>  
 
-## My Skill Set  
+## My Tech Stack
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -69,8 +69,8 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tylertaewook&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+## Github Stats
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylertaewook&show_icons=true&theme=calm)
 <br />
 
 
