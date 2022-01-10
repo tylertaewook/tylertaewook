@@ -29,14 +29,17 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 
 ## My Skill Set  
 
-### Languages  
+### Languages
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"  />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&emsp; 
 
 (Python, Java, Javascript)
+</div>
 
-### Frameworks  
+### Frameworks
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />&emsp; 
@@ -44,8 +47,10 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />&emsp; 
 
 (PyTorch, Django, Flask, Arduino, OpenCV)
+</div>
 
-### DevOps  
+### DevOps
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />&emsp; 
@@ -53,6 +58,8 @@ I will be serving Korea's mandatory military service until August 2022. Meanwhil
 
 
 (Bash, PostgreSQL, Docker, Git)
+</div>
+
 
 ## Connect with me  
 <div align="center">
