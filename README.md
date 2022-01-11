@@ -1,6 +1,6 @@
 # **Hi there 👋**  
 
-My name is Tyler, an incoming student at Columbia University, SEAS(Class of 2026), where I plan to pursue a B.S. in Computer Science.
+My name is Tyler, a first-year undergraduate at Columbia University, SEAS(Class of 2026), where I plan to pursue a B.S. in Computer Science.
 
 My background is in [arduino-robotics](https://www.youtube.com/watch?v=WXjisSnfGTI&ab_channel=TylerKim), [reinforcement learning](https://github.com/tylertaewook/RLpapers), and [computer vision](https://tylertaewook.github.io/static/media/sstp-paper.adc69ffa.pdf). Recently, I have been practicing software/ML engineering that helps real people and businesses while always searching for an interest that really clicks with me.
 Outside tech, I love to skateboard around the city, cook with my family and read new books in new places every week.
