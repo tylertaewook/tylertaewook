@@ -77,6 +77,7 @@ Outside tech, I love to skateboard around the city, cook with my family and read
 
 ## Github Stats
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylertaewook&show_icons=true&theme=calm)
+![](https://raw.githubusercontent.com/tylertaewook/github-stats/master/generated/languages.svg)
 <br />
 
 
