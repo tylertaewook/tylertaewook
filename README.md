@@ -1,10 +1,10 @@
 # **Hi there 👋**   
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-github.io-informational?style=for-the-badge&color=00ADB5&logo=about.me&logoColor=white)](https://tylertaewook.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tylertaewook-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tylertaewook/)
-[![Gmail](https://img.shields.io/badge/Gmail-tk2891@columbia.edu-informational?style=for-the-badge&color=EA4335&logo=gmail&logoColor=white)](mailto:tk2891@columbia.edu?subject=Hey!)
-<!-- [![Blog](https://img.shields.io/badge/Blog-sandbox-informational?style=for-the-badge&color=FAEEE7&logo=krita&logoColor=white)](https://tylertaewook.github.io/blog) -->
+[![Website](https://img.shields.io/badge/Website-github.io-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://tylertaewook.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tylertaewook-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tylertaewook/)
+[![Gmail](https://img.shields.io/badge/Gmail-tk2891@columbia.edu-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:tk2891@columbia.edu?subject=Hey!)
+[![Blog](https://img.shields.io/badge/Blog-sandbox-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](https://tylertaewook.github.io/blog)
   
 </div>
 
