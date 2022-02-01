@@ -1,4 +1,5 @@
 # **Hi there 👋**   
+
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-tylertaewook.github.io-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://tylertaewook.github.io)
@@ -11,9 +12,6 @@
 My name is Tyler, a first-year undergraduate at Columbia University, SEAS(Class of 2026), where I plan to pursue a B.S. in Computer Science.
 
 My background is in [arduino-robotics](https://www.youtube.com/watch?v=WXjisSnfGTI&ab_channel=TylerKim), [reinforcement learning](https://github.com/tylertaewook/RLpapers), and [computer vision](https://tylertaewook.github.io/static/media/sstp-paper.adc69ffa.pdf). Recently, I have been practicing software/ML engineering that helps real people and businesses while always searching for an interest that really clicks with me.
-Outside tech, I love to skateboard around the city, cook with my family and read new books in new places every week.
-
-📫 How to reach me: tk2891@columbia.edu
 
 
 <!-- ## 📕 Recent Blog Posts
@@ -38,19 +36,18 @@ Outside tech, I love to skateboard around the city, cook with my family and read
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="50" />&emsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />&emsp; 
 
 (Javascript, Typescript, Django, Flask, Docker, PostgreSQL)
 </div>
 
-### Machine Learning / Etc.
+### Machine Learning / DevOps.
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />&emsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />&emsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />&emsp; 
 
 (PyTorch, Arduino, OpenCV)
 </div>
