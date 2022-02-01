@@ -28,30 +28,30 @@ My background is in [arduino-robotics](https://www.youtube.com/watch?v=WXjisSnfG
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"  />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />&emsp; 
-
-(Python, Java)
-</div>
-
-### Web Dev
-<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="Typescript" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />&emsp; 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />&emsp; 
 
-(Javascript, Typescript, Django, Flask, Docker, PostgreSQL)
+(Python, Java, JavaScript, TypeScript)
 </div>
 
-### Machine Learning / DevOps.
+### Web Frameworks
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />&emsp; 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />&emsp; 
+<img style="margin: 10px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" alt="Flask" height="50" />&emsp; 
+
+(React, Django, Flask)
+</div>
+
+<!-- ### Machine Learning / DevOps.
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />&emsp; 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />&emsp; 
 
-(PyTorch, Arduino, OpenCV)
+(PyTorch, Docker, PostgreSQL)
 </div>
-
+ -->
 
 ## Github Stats
 
