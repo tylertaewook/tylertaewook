@@ -1,6 +1,4 @@
 # **Hi there 👋**   
-
-<div align="center">
   
 [![Website](https://img.shields.io/badge/Website-tylertaewook.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](http://tylertaewook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tylertaewook-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tylertaewook/)
@@ -9,9 +7,11 @@
   
 </div>
 
-My name is Tyler, a first-year undergraduate at Columbia University, SEAS(Class of 2026), where I plan to pursue a B.S. in Computer Science.
+My name is Tyler, a first-year undergrad at Columbia SEAS pursuing towards a B.S. in Computer Science.
 
-My background is in [arduino-robotics](https://www.youtube.com/watch?v=WXjisSnfGTI&ab_channel=TylerKim), [reinforcement learning](https://github.com/tylertaewook/RLpapers), and [computer vision](https://tylertaewook.github.io/static/media/sstp-paper.adc69ffa.pdf). Recently, I have been practicing software/ML engineering that helps real people and businesses while always searching for an interest that really clicks with me.
+My general interest revolves around intertwining Machine Learning and Web Development in which I spark my passion working on ML Web apps such as @scraft-ai.
+
+I'm curently exploring fields like [***text-mining***](https://scraft.ai/), [***arduino-robotics***](https://www.youtube.com/watch?v=WXjisSnfGTI&ab_channel=TylerKim), ***computer-vision***, and ***reinforcement-learning*** until I settle onto a single one that I would like to dive deeper.
 
 
 <!-- ## 📕 Recent Blog Posts
@@ -21,8 +21,18 @@ My background is in [arduino-robotics](https://www.youtube.com/watch?v=WXjisSnfG
 
 - [Orbitron: Reinventing the (spherical) wheels and its control algorithm](https://tylertaewook.github.io/blog/project-showcase/2021/04/02/Orbitron.html)
  -->
+ 
+ 
+# 💻Tech Stack
 
-## My Skill Set  
+## Languages:  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+  
+
+## Web Dev:  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## Machine Learning: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+<!-- ## My Skill Set  
 
 ### Languages
 <div align="center">
@@ -41,7 +51,7 @@ My background is in [arduino-robotics](https://www.youtube.com/watch?v=WXjisSnfG
 <img style="margin: 10px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" alt="Flask" height="50" />&emsp; 
 
 (React, Django, Flask)
-</div>
+</div> -->
 
 <!-- ### Machine Learning / DevOps.
 <div align="center">
@@ -53,11 +63,10 @@ My background is in [arduino-robotics](https://www.youtube.com/watch?v=WXjisSnfG
 </div>
  -->
 
-## Github Stats
+# Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=tylertaewook&show_icons=true&theme=calm" align="left" style="width: 45%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertaewook&hide_border=true&layout=compact" align="right" style="width: 45%" />
-
 
 
 
