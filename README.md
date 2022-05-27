@@ -1,9 +1,10 @@
 # **Hi there 👋**   
   
 [![Website](https://img.shields.io/badge/Website-tylertaewook.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](http://tylertaewook.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.tylertaewook.com-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](http://blog.tylertaewook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tylertaewook-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tylertaewook/)
 [![Gmail](https://img.shields.io/badge/Gmail-tk2891@columbia.edu-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:tk2891@columbia.edu?subject=Hey!)
-[![Blog](https://img.shields.io/badge/Blog-sandbox-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](http://tylertaewook.com/blog/)
+
   
 </div>
 
