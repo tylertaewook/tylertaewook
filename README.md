@@ -25,6 +25,7 @@ I'm curently exploring fields like [***text-mining***](https://scraft.ai/), [***
 ### Machine Learning: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📕 Recent Blog Posts
+- [How AI's Socratic Questioning can help you write better](https://blog.tylertaewook.com/post/ai-socratic-questioning)
 - [What I learned from building a Django appointment scheduler for my school](https://blog.tylertaewook.com/post/tutor-scheduler-django)
 - [Understanding Proximal Policy Optimization (Schulman et al., 2017)](https://blog.tylertaewook.com/post/proximal-policy-optimization)
 - [Orbitron: Reinventing the (spherical) wheels and its control algorithm](https://blog.tylertaewook.com/post/project-orbitron)
