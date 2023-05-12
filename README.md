@@ -14,6 +14,10 @@ My general interest revolves around intertwining Machine Learning and Web Develo
 
 I'm curently exploring fields like [***text-mining***](https://scraft.ai/), [***arduino-robotics***](https://www.youtube.com/watch?v=WXjisSnfGTI&ab_channel=TylerKim), ***computer-vision***, and ***reinforcement-learning*** until I settle onto a single one that I would like to dive deeper.
 
+## Featured for Scraft
+- [Microsoft Source: Students turn to AI for ideas to improve lives at this year’s Imagine Cup]([https://blog.tylertaewook.com/post/ai-socratic-questioning](https://news.microsoft.com/source/features/ai/students-turn-to-ai-for-ideas-to-improve-lives-at-this-years-imagine-cup/))
+- [TechXplore: A generative AI writing tutor that produces personalized feedback for English learners]([https://blog.tylertaewook.com/post/tutor-scheduler-django](https://techxplore.com/news/2023-05-generative-ai-personalized-feedback-english.html))
+
  
 ## 💻Tech Stack
 
@@ -29,7 +33,6 @@ I'm curently exploring fields like [***text-mining***](https://scraft.ai/), [***
 - [What I learned from building a Django appointment scheduler for my school](https://blog.tylertaewook.com/post/tutor-scheduler-django)
 - [Understanding Proximal Policy Optimization (Schulman et al., 2017)](https://blog.tylertaewook.com/post/proximal-policy-optimization)
 - [Orbitron: Reinventing the (spherical) wheels and its control algorithm](https://blog.tylertaewook.com/post/project-orbitron)
-
 
 
 # Github Stats
