@@ -8,7 +8,7 @@
   
 </div>
 
-My name is Tyler, a first-year undergrad at Columbia SEAS pursuing towards a B.S. in Computer Science.
+My name is Tyler, a second-year undergrad at Columbia SEAS pursuing towards a B.S. in Computer Science.
 
 My general interest revolves around intertwining Machine Learning and Web Development in which I spark my passion working on ML Web apps such as @scraft-ai.
 
